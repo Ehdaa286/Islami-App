@@ -1,16 +1,4 @@
-# islamiiapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Uploading image.png…]()
+<img width="550" height="1079" alt="image" src="https://github.com/user-attachments/assets/846ce908-4691-4af6-bd30-5418a1e27360" />
+![Uploading image.png…]()
+<img width="540" height="1028" alt="image" src="https://github.com/user-attachments/assets/813704b6-ee16-4155-bc63-99daf162e509" />
